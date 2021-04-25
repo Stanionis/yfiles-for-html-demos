@@ -1,0 +1,11 @@
+---
+application:
+  name: "yfiles-for-html-demos"
+  project: "VS test"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-yfiles-for-html-demos"
+  routes:
+  - application_name: "yfiles-for-html-demos"
+    paths:
+    - "/*"
